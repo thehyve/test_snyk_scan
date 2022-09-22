@@ -1,3 +1,3 @@
-from cbioportal/cbioportal:4.1.1
+FROM cbioportal/cbioportal:4.1.1
 
-user 1000
+USER 1000
